@@ -1,0 +1,7 @@
+C:\Users\karim\source\repos\Prime numbers project\bin\Debug\Prime numbers project.exe.config
+C:\Users\karim\source\repos\Prime numbers project\bin\Debug\Prime numbers project.exe
+C:\Users\karim\source\repos\Prime numbers project\bin\Debug\Prime numbers project.pdb
+C:\Users\karim\source\repos\Prime numbers project\obj\Debug\Prime numbers project.csproj.AssemblyReference.cache
+C:\Users\karim\source\repos\Prime numbers project\obj\Debug\Prime numbers project.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\Prime numbers project\obj\Debug\Prime numbers project.exe
+C:\Users\karim\source\repos\Prime numbers project\obj\Debug\Prime numbers project.pdb
